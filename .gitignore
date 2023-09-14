@@ -1,0 +1,15 @@
+# ignore all .html files in the root directory and all subdirectories
+*.html
+
+# ignore all pickle files in the root directory and all subdirectories
+*.pkl
+
+# ignore all files in the data directory, but keep the directory
+data/
+
+# ignor all generated plots
+plots/
+
+# ignore the folder archive and all its contents
+archive/
+
