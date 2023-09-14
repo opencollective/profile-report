@@ -1,3 +1,5 @@
+*.DS_Store
+
 # ignore all .html files in the root directory and all subdirectories
 *.html
 
